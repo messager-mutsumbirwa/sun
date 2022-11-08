@@ -1,0 +1,274 @@
+
+    $mobile :576px;
+    $tablete :768px;
+    $laptop :992px;
+    $desktop:1200px;
+
+
+
+   /* #size{
+        position: absolute;
+        top:60%;
+        transform:translatex(-50%);
+        font-size:35px;
+        color:red;
+    }*/
+
+    .mark{
+        width: 100%;
+        height: 80px;
+        background-color: #555555;
+
+    }
+    .info{
+        width: 10%;
+        height: 100%;
+        background-color: red;
+        color: #ffb600;
+        font-size:24px;
+        font-family: TimesNewRoman;
+
+
+    }
+    .infos{
+        width: 10%;
+        height: 100%;
+        background-color: red;
+        color: #ffb600;
+        font-size:24px;
+        font-family: TimesNewRoman;
+        margin-top: -4.7%;
+
+
+
+    }
+
+    .info  a{
+        text-align: center;
+        text-decoration: bold;
+        
+
+    }
+    .infos img{
+        width: 100%;
+        height:100%;
+        margin: center;
+    }
+     .infos a{
+        width: 100%;
+        height:100%;
+        margin: center;
+        margin-top: -5%;
+    }
+
+    .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }
+    .col1{
+        margin-left: 2%;
+        margin-top:15%;
+
+    }
+    .col1 .carre1{
+        width: 23%;
+
+
+    }
+
+    .col2{
+        margin-left: 25%;
+        margin-top: -91%;
+
+    }
+    .col2 .carre2{
+        width: 23%;
+
+    }
+    .col3{
+        margin-left: 48%;
+        margin-top: -91%;
+
+    }
+    .col3 .carre3{
+        width: 23%;
+
+    }
+
+/* @media (max-width:$desktop ){
+    .publicity{
+        .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }    }
+
+}
+
+@media (max-width:$laptop ){
+    .publicity{
+        .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }    }
+
+}.col2{
+        margin-left: 100%;
+        margin-top: -140%;
+        width: 60%;
+
+    }
+    .col2 .carre2{
+        size: 60%;
+
+    }
+    .col3{
+        margin-left: 2%;
+        margin-top: -0%;
+
+    }
+    .col3 .carre3{
+        width: 23%;
+
+    }
+
+@media (max-width:$tablete ){
+    .publicity{
+        .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }    }
+
+}
+
+.col2{
+        margin-left: 100%;
+        margin-top: -140%;
+        width: 60%;
+
+    }
+    .col2 .carre2{
+        size: 60%;
+
+    }
+    .col3{
+        margin-left: 2%;
+        margin-top: -0%;
+
+    }
+    .col3 .carre3{
+        width: 23%;
+
+    }
+
+@media (max-width:$mobile ){
+    .publicity{
+        .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }    }
+
+}
+ .publicity{
+        .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }    }
+
+}
+ .col1{
+        
+        margin-top:15%;
+        margin-left: 4%;
+        margin:auto;
+
+
+    }
+    .col1 .carre1{
+        width: 23%;
+
+
+    }
+
+
+.col2{
+        margin-left: 2%;
+        margin-top: -1%;
+        width: 60%;
+
+    }
+    .col2 .carre2{
+        size: 60%;
+
+    }
+    .col3{
+        margin-left: 2%;
+        margin-top: -0%;
+
+    }
+    .col3 .carre3{
+        width: 23%;
+
+    }
+.infos{
+    margin-top: -23%;
+}*/

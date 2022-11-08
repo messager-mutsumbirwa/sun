@@ -1,0 +1,109 @@
+
+    $mobile :576px;
+    $tablete :768px;
+    $laptop :992px;
+    $desktop1200px;
+    body{
+    background-color: #555555;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+    }
+    .mark{
+        width: 100%;
+        height: 80px;
+        background-color: white;
+
+    }
+    .info{
+        width: 10%;
+        height: 100%;
+        background-color: red;
+        color: #ffb600;
+        font-size:24px;
+        font-family: TimesNewRoman;
+
+
+    }
+    .infos{
+        width: 10%;
+        height: 100%;
+        background-color: red;
+        color: #ffb600;
+        font-size:24px;
+        font-family: TimesNewRoman;
+        margin-top: -4.7%;
+
+
+
+    }
+
+    .info  a{
+        text-align: center;
+        text-decoration: bold;
+        
+
+    }
+    .infos img{
+        width: 100%;
+        height:100%;
+        margin: center;
+    }
+     .infos a{
+        width: 100%;
+        height:100%;
+        margin: center;
+        margin-top: -5%;
+    }
+
+    .publicity{
+        width: 60%;
+        height: 350px;
+        background-color: gray;
+        margin:center;
+        margin: auto;
+        margin-top: 5%;
+        border-radius: 15px;
+    }
+    .publicity iframe{
+        width: 100%;
+        height: 350px;
+        border-radius: 20px;
+    }
+    .col1{
+        margin-left: 2%;
+        margin-top:15%;
+
+    }
+    .col1 .carre1{
+        width: 23%;
+
+
+    }
+
+    .col2{
+        margin-left: 25%;
+        margin-top: -91%;
+
+    }
+    .col2 .carre2{
+        width: 23%;
+
+    }
+    .col3{
+        margin-left: 48%;
+        margin-top: -91%;
+
+    }
+    .col3 .carre3{
+        width: 23%;
+
+    }
+    @media screen (max-width: 768px) and (min-width: 768px){
+
+        .publicity
+
+
+
+}
+
